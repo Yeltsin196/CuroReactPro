@@ -1,7 +1,7 @@
 import styles from "../styles/styles.module.css";
 
-import noImage from "../assets/no-image.jpg";
-import { useState } from "react";
+/* import noImage from "../assets/no-image.jpg";
+import { useState } from "react"; */
 import { useProduct } from "./../hooks/useProduct";
 
 export const ProductCard = () => {
